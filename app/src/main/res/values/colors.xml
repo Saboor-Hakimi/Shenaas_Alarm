@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shenaas brand palette (shenaas.com) -->
+    <color name="shenaas_orange">#FFF34500</color>
+    <color name="shenaas_night">#FF0D1014</color>
+    <color name="hell_ember">#FF1A0A06</color>
+</resources>

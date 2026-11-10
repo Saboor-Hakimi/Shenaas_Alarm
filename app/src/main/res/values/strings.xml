@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shenaas Alarm</string>
+    <string name="ring_activity_label">Alarm From Hell</string>
+    <string name="channel_ringing">Ringing alarms</string>
+    <string name="channel_ringing_desc">Full-screen alarm while it is ringing</string>
+    <string name="channel_snoozed">Snoozed alarms</string>
+    <string name="channel_wake_check">Wake-up check</string>
+    <string name="channel_wake_check_desc">Makes sure you didn\'t fall back asleep</string>
+    <string name="channel_missed">Missed alarms</string>
+</resources>

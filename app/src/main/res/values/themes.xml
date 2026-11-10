@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ShenaasAlarm" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/shenaas_night</item>
+        <item name="android:colorAccent">@color/shenaas_orange</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:windowSplashScreenBackground">@color/shenaas_night</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+    </style>
+
+    <style name="Theme.ShenaasAlarm.Ring">
+        <item name="android:windowBackground">@color/hell_ember</item>
+        <item name="android:windowSplashScreenBackground">@color/hell_ember</item>
+    </style>
+</resources>
